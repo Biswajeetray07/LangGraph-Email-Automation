@@ -1,0 +1,28 @@
+**[Your Company]: Your AI Support Partner**
+
+---
+
+**Welcome to [Your Company]**
+
+[Your Company] provides cutting-edge automated support solutions to help businesses streamline their customer interactions. Our platform ensures your customers receive prompt, accurate, and helpful responses 24/7.
+
+---
+
+**Key Services**
+
+- **Automated Email Triage**: Instantly categorize incoming support tickets to ensure they reach the right department or get handled by the appropriate automated flow.
+- **Knowledge Base Integration**: We connect directly to your product documentation, FAQs, and internal wikis to provide accurate, context-aware answers to user inquiries.
+- **Feedback Collection & Analysis**: Automatically process user feedback and feature requests, giving your product team clear insights without manual sorting.
+
+---
+
+**FAQ and Knowledge Base**
+
+- *What are your support hours?*
+  Our AI agents handle Tier 1 support 24/7. Human escalation is available during standard business hours (9 AM - 5 PM EST).
+
+- *How do I integrate this with my existing systems?*
+  We offer native integrations with common CRM platforms, and a comprehensive REST API for custom integrations.
+
+- *Where can I find pricing information?*
+  Please visit our main website or reach out to our sales team for an enterprise quote tailored to your volume.
